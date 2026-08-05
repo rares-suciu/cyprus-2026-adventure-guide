@@ -1,0 +1,5 @@
+source_dir: book/chapters
+output:
+  docx: docx/CYPRUS_2026_Adventure_Edition.docx
+  pdf: pdf/CYPRUS_2026_Adventure_Edition.pdf
+include_toc: true
