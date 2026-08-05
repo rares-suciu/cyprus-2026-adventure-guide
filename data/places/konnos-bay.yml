@@ -1,0 +1,25 @@
+name: "Konnos Bay"
+type: "beach"
+region: "Cape Greco"
+
+coordinates:
+  latitude: 34.9838
+  longitude: 34.0816
+
+ratings:
+  family: 5
+  snorkeling: 5
+  photography: 5
+  parking: 4
+
+features:
+  sandy_beach: true
+  water_shoes_recommended: false
+  sunrise: true
+  sunset: false
+  cliff_views: true
+
+best_time: "08:30–11:30"
+estimated_visit: "3–5 hours"
+
+status: "draft"
