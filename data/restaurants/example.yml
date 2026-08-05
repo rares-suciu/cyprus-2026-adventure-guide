@@ -1,0 +1,18 @@
+name: "Example Restaurant"
+region: "Protaras"
+cuisine: "Cypriot"
+
+coordinates:
+  latitude: 0
+  longitude: 0
+
+price_level: 2
+family_friendly: true
+outdoor_seating: true
+reservation_recommended: false
+
+recommended_dishes:
+  - "Meze"
+  - "Kleftiko"
+
+status: "template"
